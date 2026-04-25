@@ -21,6 +21,10 @@ document.querySelectorAll('a[href^="#"]').forEach(link => {
       }
     });
   };
+ function log()
+    {
+        window.location="https://stanley.xo.je/?i=1"
+    }
   
   animatedItems.forEach(item => {
     item.style.opacity = '0';
