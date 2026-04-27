@@ -23,7 +23,7 @@ document.querySelectorAll('a[href^="#"]').forEach(link => {
   };
  function log()
     {
-        window.location="https://stanley.xo.je/?i=1"
+        window.location="https://stanley.xo.je/?i=1";
     }
   
   animatedItems.forEach(item => {
